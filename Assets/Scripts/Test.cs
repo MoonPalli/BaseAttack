@@ -7,4 +7,9 @@ public class Test : MonoBehaviour
         Debug.Log("Hello");
         Debug.Log("goodbye");
     }
+
+    private void Show(string message)
+    {
+        Debug.Log($"{message}");
+    }
 }
