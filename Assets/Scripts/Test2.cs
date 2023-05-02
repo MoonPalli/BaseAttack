@@ -4,6 +4,6 @@ public class Test2 : MonoBehaviour
 {
     private void Test()
     {
-        //ye ye yes
+        //test
     }
 }
